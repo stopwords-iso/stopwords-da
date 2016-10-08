@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-da",
+  "description": "The most comprehensive collection of stopwords for the danish language.",
+  "keywords": [
+    "danish",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-da",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-da.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
